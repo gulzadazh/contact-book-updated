@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "contact1": "gulzada",
+      "contact2": "zhumashova",
+      "contact3": "700905720",
+      "id": 1
+    },
+    {
+      "contact1": "begimay",
+      "contact2": "rakatovna",
+      "contact3": "703296931",
+      "id": 2
+    },
+    {
+      "contact1": "omurlan ",
+      "contact2": "abdrashev",
+      "contact3": "965175396",
+      "id": 3
+    }
+  ]
+}
